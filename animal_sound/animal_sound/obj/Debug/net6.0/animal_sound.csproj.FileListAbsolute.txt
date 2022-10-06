@@ -1,0 +1,15 @@
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/bin/Debug/net6.0/animal_sound
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/bin/Debug/net6.0/animal_sound.deps.json
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/bin/Debug/net6.0/animal_sound.runtimeconfig.json
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/bin/Debug/net6.0/animal_sound.dll
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/bin/Debug/net6.0/animal_sound.pdb
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.csproj.AssemblyReference.cache
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.AssemblyInfoInputs.cache
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.AssemblyInfo.cs
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.csproj.CoreCompileInputs.cache
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.dll
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/refint/animal_sound.dll
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.pdb
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/animal_sound.genruntimeconfig.cache
+/Users/mmm3mujtaba/workspace/csharp/visual_studio/git/integrative-programming-csharp-lab/animal_sound/animal_sound/obj/Debug/net6.0/ref/animal_sound.dll
